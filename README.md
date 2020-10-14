@@ -1,2 +1,2 @@
 # Movie-Searh-Webpage
-Movie search webpage (Using Vue.js)
+Movie search webpage (Node.js-Vue.js)
